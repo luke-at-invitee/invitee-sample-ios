@@ -6,8 +6,5 @@ target 'Test Project' do
   use_frameworks!
 
   # Pods for Invitee
-  pod 'Invitee', '1.0.0'
-  pod 'SnapKit', '5.0.1'
-  pod 'Alamofire', '5.4.3'
-  pod 'RxSwift', '6.2.0'
+  pod 'Invitee', '1.0.1'
 end
